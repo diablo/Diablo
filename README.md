@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=diablo&color=ffccff)
+
 # Welcome to my profile ❤️
 ![Diablo's Github Stats](https://github-readme-stats.vercel.app/api?username=Diablo&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 ![Diablo Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diablo&layout=compact&text_color=daf7dc&bg_color=151515)
