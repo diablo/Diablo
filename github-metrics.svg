@@ -220,7 +220,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="409.6966205068722" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="409.6966205068722" y="0" width="33.69376107907519" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="409.6966205068722" y="0" width="33.69376107907519" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="443.3903815859474" y="0" width="9.220053807475775" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="452.6104353934232" y="0" width="6.062166333963779" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="458.67260172738696" y="0" width="0.7420987951624333" height="8" fill="#000080"/>
@@ -235,7 +235,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -449,7 +449,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.99m out of 150m users</span>
+                                    <span class="gh">ranked 4.99m out of 149m users</span>
                                 </div>
                                 <div class="text">Published 14 public repositories</div>
                             </div>
@@ -527,7 +527,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.29m out of 229m repositories</span>
+                                    <span class="gh">ranked 2.29m out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -579,7 +579,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.22m out of 150m users</span>
+                                    <span class="gh">ranked 2.22m out of 149m users</span>
                                 </div>
                                 <div class="text">Followed by 7 users</div>
                             </div>
@@ -648,7 +648,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.10m out of 229m repositories</span>
+                                    <span class="gh">ranked 2.10m out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 10 stars</div>
                             </div>
@@ -741,7 +741,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Dec 2024, 12:38:30 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 13:29:23 (timezone Europe/Lisbon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
